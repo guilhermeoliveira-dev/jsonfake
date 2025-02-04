@@ -70,7 +70,7 @@
                 "numero": "223",
                 "complemento": ""
             },
-            "dataAdmissao": "11/11/2014",
+            "dataAdmissao": "11-11-2014",
             "cargo": {
                 "id": 1,
                 "nome": "Farmacêutico"
@@ -112,7 +112,7 @@
                 "numero": "784",
                 "complemento": ""
             },
-            "dataAdmissao": "11/11/2014",
+            "dataAdmissao": "11-11-2014",
             "cargo": {
                 "id": 2,
                 "nome": "Gerente"
@@ -154,7 +154,7 @@
                 "numero": "1789",
                 "complemento": ""
             },
-            "dataAdmissao": "11/11/2014",
+            "dataAdmissao": "11-11-2014",
             "cargo": {
                 "id": 3,
                 "nome": "Administrador"
@@ -167,7 +167,7 @@
                 "nome": "Farmácia 3",
                 "email": "farmacianumero3@email.com",
                 "telefone": "6266-6266",
-                "endeco": {
+                "endereco": {
                     "id": 3,
                     "uf": "MG",
                     "cidade": "Juiz de Fora",
