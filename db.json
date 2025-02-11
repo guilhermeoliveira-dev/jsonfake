@@ -184,7 +184,7 @@
         {
             "id": 1,
             "nome": "Omega 3",
-            "descricao": "faz bem pra saude",
+            "descricao": "Faz bem para a saúde.",
             "preco": 50.0,
             "requerLote": true,
             "peso": 50,
@@ -197,12 +197,12 @@
             },
             "categoria": {
                 "id": 2,
-                "nome": "Suplemento Alimenticio",
-                "descricao": "Medicamentos destinados a complementar a nutricao.",
+                "nome": "Suplemento Alimentício",
+                "descricao": "Medicamentos destinados a complementar a alimentação nutricional.",
                 "categoriaPai": {
                     "id": 5,
                     "nome": "Produto Alimentício",
-                    "descricao": "Produtos alimentícios de forma geral.",
+                    "descricao": "Produtos alimentícios em geral.",
                     "categoriaPai": null
                 }
             }
@@ -210,7 +210,7 @@
         {
             "id": 2,
             "nome": "Sachê Whiskas",
-            "descricao": "sachê de ração para gatos",
+            "descricao": "Sachê de ração para gatos.",
             "preco": 4.0,
             "requerLote": true,
             "peso": 100,
@@ -224,11 +224,11 @@
             "categoria": {
                 "id": 4,
                 "nome": "Ração Animal",
-                "descricao": "Ração para pets.",
+                "descricao": "Ração para animais de estimação.",
                 "categoriaPai": {
                     "id": 5,
                     "nome": "Produto Alimentício",
-                    "descricao": "Produtos alimentícios de forma geral.",
+                    "descricao": "Produtos alimentícios em geral.",
                     "categoriaPai": null
                 }
             }
@@ -236,7 +236,7 @@
         {
             "id": 3,
             "nome": "Cloridrato de Propranolol",
-            "descricao": "Cloridrato de Propranolol 40mg Genérico Pharlab 30 Comprimidos",
+            "descricao": "Cloridrato de Propranolol 40 mg, genérico Pharlab, 30 comprimidos.",
             "preco": 8.99,
             "requerLote": true,
             "peso": 50,
@@ -262,7 +262,7 @@
         {
             "id": 4,
             "nome": "Clonazepam",
-            "descricao": "Faz bem para Convulsão, Pânico e Ansiedade",
+            "descricao": "Faz bem para convulsão, pânico e ansiedade.",
             "preco": 80.0,
             "requerLote": true,
             "peso": 60,
@@ -276,7 +276,7 @@
             "categoria": {
                 "id": 6,
                 "nome": "Benzodiazepínicos",
-                "descricao": "É uns remédio cabuloso.",
+                "descricao": "É um remédio bem potente.",
                 "categoriaPai": {
                     "id": 1,
                     "nome": "Medicamento",
