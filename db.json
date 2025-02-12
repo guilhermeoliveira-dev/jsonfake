@@ -100,7 +100,7 @@
             "nome": "usuario02",
             "email": "usuario02@email.com",
             "senha": "1",
-            "cpf": "11111211111",
+            "cpf": "11111111111",
             "telefone": "2222-2222",
             "endereco": {
                 "id": 5,
@@ -142,7 +142,7 @@
             "nome": "usuario03",
             "email": "usuario03@email.com",
             "senha": "1",
-            "cpf": "11115411111",
+            "cpf": "11111111111",
             "telefone": "3333-3333",
             "endereco": {
                 "id": 6,
